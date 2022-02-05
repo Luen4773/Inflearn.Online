@@ -1,2 +1,10 @@
-﻿  CPP_Study5.cpp
-  CPP_Study.vcxproj -> C:\Users\ehdrj\Downloads\인프런\언리얼로 만드는 MMORPG 게임 개발 시리즈 Part.1\CPP_Study\CPP_Study\x64\Debug\CPP_Study.exe
+﻿  CPP_Stduy2.cpp
+  CPP_Study.cpp
+  CPP_Study3.cpp
+  CPP_Study4.cpp
+  CPP_Study5.cpp
+  CPP_Study6.cpp
+  코드를 생성하고 있습니다...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1120).
+MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\ehdrj\Desktop\Inflearn.Online\언리얼로 만드는 MMORPG 게임 개발 시리즈 Part.1\CPP_Study\CPP_Study\x64\Debug\CPP_Study.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

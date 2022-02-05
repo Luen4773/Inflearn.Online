@@ -33,25 +33,25 @@
 
 	//a == b : a 와 b의 값이 같은가?
 	// 같으면 1 , 틀리면 0
-	isSame = (a == b);
+	//isSame = (a == b);
 
 	// a!= b : a와 b는 다른가?
 	// 다르면 1, 같으면 0
-	isDifferent = (a != b);
+	//isDifferent = (a != b);
 
 	// a > b : a가 b보다 크냐?
 	// a >= b : a가 b보다 크거나 같냐?
 	// 1 아니면 0
-	isGreater = (a > b);
+	//isGreater = (a > b);
 
 	// a < b : a가 b보다 작냐?
 	// a <= b : a가 b보다 작거나 같냐?
-	isSmaller = (a < b);
+	//isSmaller = (a < b);
 	
 	
 
 
-#pragma endregion
+//#pragma endregion
 //
 //
 //#pragma region 논리 연산
