@@ -141,10 +141,13 @@
   <ItemGroup>
     <ClCompile Include="CPP_Point.cpp" />
     <ClCompile Include="CPP_Point2.cpp" />
+    <ClCompile Include="CPP_Point3.cpp" />
     <ClCompile Include="CPP_Study10.cpp" />
     <ClCompile Include="CPP_Study11.cpp" />
     <ClCompile Include="CPP_Study12.cpp" />
     <ClCompile Include="CPP_Study13.cpp" />
+    <ClCompile Include="CPP_Study15.cpp" />
+    <ClCompile Include="CPP_Study16.cpp" />
     <ClCompile Include="CPP_Study7.cpp" />
     <ClCompile Include="CPP_Study8.cpp" />
     <ClCompile Include="CPP_Study9.cpp" />
